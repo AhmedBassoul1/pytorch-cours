@@ -38,8 +38,8 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <your-project-folder>
+git clone https://github.com/AhmedBassoul1/pytorch-cours.git
+cd pytorch-cours
 ```
 
 2. Launch Jupyter Notebook:
