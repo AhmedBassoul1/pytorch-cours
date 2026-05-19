@@ -129,8 +129,8 @@ After finishing this notebook, consider learning:
 
 ## Resources
 
-* urlPyTorch Official Documentation[https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html)
-* urlPyTorch Tutorials[https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
+* url PyTorch Official Documentation [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html)
+* url PyTorch Tutorials [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
 
 ## License
 
